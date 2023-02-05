@@ -22,7 +22,7 @@ bash scripts/main_simulation.sh
 * ViT: checkpoint given by Google. 
 
   ```bash
-  wget gs://vit_models/augreg/B_16-i21k-300ep-lr_0.001-aug_medium1-wd_0.1-do_0.0-sd_0.0.npz.
+wget https://storage.googleapis.com/vit_models/augreg/B_16-i21k-300ep-lr_0.001-aug_medium1-wd_0.1-do_0.0-sd_0.0.npz
   ```
 
 * ResNet: pre-trained ResNet50 supported by Pytorch.
