@@ -1,6 +1,6 @@
 # Revisiting Discriminative vs. Generative Classifiers: Theory and Implications
 
-This is the official implementation for **Revisiting Discriminative vs. Generative Classifiers: Theory and Implications**.
+This is the official implementation for [Revisiting Discriminative vs. Generative Classifiers: Theory and Implications](https://arxiv.org/abs/2302.02334).
 
 ## Dependencies
 
